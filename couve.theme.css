@@ -26,7 +26,7 @@
   --background-secondary: #36393e;
   --background-secondary-alt: #282b30;
   --background-secondary-alt-alt: ##1e2124;
-  --background-tertiary: #060c24;
+  --background-tertiary: #1e2124;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
