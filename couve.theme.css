@@ -25,7 +25,7 @@
   --background-primary: #424549;
   --background-secondary: #36393e;
   --background-secondary-alt: #282b30;
-  --background-secondary-alt-alt: ##1e2124;
+  --background-secondary-alt-alt: #1e2124;
   --background-tertiary: #1e2124;
 
   --deprecated-store-bg: var(--background-primary);
@@ -38,7 +38,7 @@
   --colortransparency: #0003;
 
   /* Cards */
-  --card: #212332;
+  --card: #191b1d;
 
   /* Other stuff */
   --textcolor: #fff;
